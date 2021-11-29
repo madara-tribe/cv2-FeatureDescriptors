@@ -1,4 +1,3 @@
-# BEBLID_cv2HomographyDetector
 
 # Versions
 - pyhton 3.7.3
